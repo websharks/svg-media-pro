@@ -1,6 +1,6 @@
 === SVG Media Pro ===
 
-Stable tag: 170410.12633
+Stable tag: 170410.12703
 
 Tested up to: 4.8
 Requires at least: 4.7.3

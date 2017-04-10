@@ -31,12 +31,12 @@ use function get_defined_vars as vars;
 /**
  * Media utils.
  *
- * @since $v Initial release.
+ * @since 170410.12703 Initial release.
  */
 trait Media
 {
     /*
-     * @since $v Initial release.
+     * @since 170410.12703 Initial release.
      *
      * @param mixed ...$args Variadic args to underlying utility.
      *

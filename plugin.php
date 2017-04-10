@@ -4,7 +4,7 @@
  *
  * @wp-plugin
  *
- * Version: 170410.12633
+ * Version: 170410.12703
  * Text Domain: svg-media
  * Plugin Name: SVG Media Pro
  *

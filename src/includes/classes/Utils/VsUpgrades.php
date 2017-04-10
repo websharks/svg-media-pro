@@ -31,14 +31,14 @@ use function get_defined_vars as vars;
 /**
  * VS upgrades.
  *
- * @since $v VS upgrades.
+ * @since 170410.12703 VS upgrades.
  */
 class VsUpgrades extends SCoreClasses\SCore\Base\Core
 {
     /**
      * VS upgrade handler.
      *
-     * @since $v VS upgrade handler.
+     * @since 170410.12703 VS upgrade handler.
      */
     public function fromLt000000()
     {

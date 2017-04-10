@@ -31,14 +31,14 @@ use function get_defined_vars as vars;
 /**
  * Styles/scripts.
  *
- * @since $v Initial release.
+ * @since 170410.12703 Initial release.
  */
 class StylesScripts extends SCoreClasses\SCore\Base\Core
 {
     /**
      * On `admin_enqueue_scripts` hook.
      *
-     * @since $v Initial release.
+     * @since 170410.12703 Initial release.
      */
     public function onAdminEnqueueScripts()
     {

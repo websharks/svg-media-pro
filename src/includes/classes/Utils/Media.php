@@ -31,14 +31,14 @@ use function get_defined_vars as vars;
 /**
  * Media utils.
  *
- * @since $v Initial release.
+ * @since 170410.12703 Initial release.
  */
 class Media extends SCoreClasses\SCore\Base\Core
 {
     /**
      * On `upload_mimes` filter.
      *
-     * @since $v Initial release.
+     * @since 170410.12703 Initial release.
      *
      * @param array $mime_types MIME types.
      *
@@ -52,7 +52,7 @@ class Media extends SCoreClasses\SCore\Base\Core
     /**
      * On `wp_prepare_attachment_for_js` filter.
      *
-     * @since $v Initial release.
+     * @since 170410.12703 Initial release.
      *
      * @param array    $response Array of prepared attachment data.
      * @param \WP_Post $WP_Post  Attachment post; e.g., `\WP_Post` instance.
