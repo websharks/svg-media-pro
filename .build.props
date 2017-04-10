@@ -1,0 +1,24 @@
+project_title                               = SVG Media Pro
+
+project_owner                               = websharks
+project_slug                                = svg-media-pro
+
+project_text_domain                         = svg-media
+project_slack_channel                       = svg-media
+
+project_namespace                           = WebSharks\\WpSharks\\SVGMedia\\Pro
+project_sub_namespace                       = WpSharksSVGMediaPro
+
+project_version                             = %y%m%d.%now
+
+project_php_required_version                = 7.0.4
+project_php_tested_up_to_version            = ${php.version}
+project_php_required_bits                   = 64
+project_php_required_functions              =
+project_php_required_extensions             =
+
+project_wp_required_version                 = 4.7.3
+project_wp_tested_up_to_version             = 4.8
+
+project_wp_sharks_core_required_version     = 170407.59512
+project_wp_sharks_core_tested_up_to_version = 170407.59512

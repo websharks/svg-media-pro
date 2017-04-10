@@ -1,0 +1,218 @@
+/*
+ * Requires a local copy of the WP Sharks Core.
+ */
+/*
+ * Requires a local copy of the WebSharks Core.
+ */
+/*
+ * General colors.
+ */
+/*
+ * Fancy blockquotes.
+ */
+/*
+ * Fancy monospace tags.
+ */
+/*
+ * Named colors.
+ */
+/*
+ * Social networks.
+ */
+/*
+ * Our own names.
+ */
+/*
+ * Name that color!
+ * <http://chir.ag/projects/name-that-color>
+ */
+/*
+ * Font variables.
+ */
+/*
+ * Content font variables.
+ */
+/*
+ * Pixels to rem.
+ */
+/*
+ * Better inversions.
+ */
+/*
+ * Fancy blockquotes.
+ */
+/*
+ * Fancy checkboxes.
+ */
+/*
+ * Fancy definitions.
+ */
+/*
+ * Fancy HR tags.
+ */
+/*
+ * Fancy labels.
+ */
+/*
+ * Fancy link targets.
+ */
+/*
+ * Fancy lists.
+ */
+/*
+ * Fancy messages.
+ */
+/*
+ * Fancy monospace tags.
+ */
+/*
+ * Fancy navigation menus.
+ */
+/*
+ * Fancy pagination menus.
+ */
+/*
+ * Fancy placeholders.
+ */
+/*
+ * Font events.
+ */
+/*
+ * Font features.
+ */
+/*
+ * Pixels to rem.
+ */
+/*
+ * Device breakpoints.
+ * Following Semantic UI breakpoints.
+ */
+/*
+ * Responsive utils.
+ * Following Semantic UI breakpoints.
+ * + custom `handheld` & `small screen` breakpoints.
+ */
+/*
+ * Responsive fonts.
+ */
+/*
+ * Responsive images.
+ */
+/*
+ * Highlight.js <pre><code>.
+ */
+/*
+ * Box shadow tools.
+ */
+/*
+ * Centered tools.
+ */
+/*
+ * Text shadow tools.
+ */
+/*
+ * Position tools.
+ */
+/*
+ * Device breakpoints.
+ * Following Semantic UI breakpoints.
+ */
+/*
+ * Responsive utils.
+ * Following Semantic UI breakpoints.
+ * + custom `handheld` & `small screen` breakpoints.
+ */
+/*
+ * Text shadow tools.
+ */
+/*
+ * Device breakpoints.
+ * Following Semantic UI breakpoints.
+ */
+/*
+ * Responsive utils.
+ * Following Semantic UI breakpoints.
+ * + custom `handheld` & `small screen` breakpoints.
+ */
+/*
+ * Align utils.
+ */
+/*
+ * Blurred utils.
+ */
+/*
+ * Border utils.
+ */
+/*
+ * Box shadow utils.
+ */
+/*
+ * Color utils.
+ */
+/*
+ * Content utils.
+ */
+/*
+ * Disabled utils.
+ */
+/*
+ * Display utils.
+ */
+/*
+ * Filter shadow utilities.
+ */
+/*
+ * Font utils.
+ */
+/*
+ * Heading utils.
+ */
+/*
+ * Height utils.
+ */
+/*
+ * Inset utils.
+ */
+/*
+ * Line utils.
+ */
+/*
+ * List utils.
+ */
+/*
+ * Margin utils.
+ */
+/*
+ * Opacity utils.
+ */
+/*
+ * Padding utils.
+ */
+/*
+ * Position utils.
+ */
+/*
+ * Responsive utils.
+ */
+/*
+ * Text shadow utilities.
+ */
+/*
+ * Visibility utils.
+ */
+/*
+ * Width utils.
+ */
+/*
+ * Brand configuration.
+ */
+/*
+ * SVG styles.
+ */
+.media .media-icon img[src$='.svg'],
+#postimagediv .inside img[src$='.svg'] {
+  width: auto;
+  height: auto;
+}
+
+/*# sourceMappingURL=svgs.css.map */
